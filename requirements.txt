@@ -1,0 +1,12 @@
+discord.py
+asyncpg
+python-dotenv
+discord-pretty-help
+disputils
+aiohttp-requests
+statcord.py
+dblpy
+patreon
+humanize
+jishaku
+emoji
